@@ -1,0 +1,58 @@
+
+
+
+.wall {
+    background-image: url(/Images/wall.png);
+    background-repeat: no-repeat;
+    height: 37px;
+    width: 37px;
+    display:inline-block;
+}
+
+.space {
+    background-color: lightgray;
+    height: 37px;
+    width: 37px;
+    position: relative;
+    display: inline-block;
+}
+
+.goal {
+    background-image: url(/Images/christmas_tree.png);
+    position: relative;
+    display: inline-block;
+    height: 37px;
+    width: 37px;
+    background-size: contain;
+}
+
+.character {
+    background-image: url(/Images/santa.png);
+    position: relative;
+    display: inline-block;
+    height: 37px;
+    width: 37px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.block {
+    background-image: url(/Images/present.png);
+    position: relative;
+    display: inline-block;
+    height: 37px;
+    width: 37px;
+    background-size: contain;
+}
+
+.blockDone {
+    background-image: url(C:\Users\deltagare\Desktop\Sokoban\trees.png);
+    position: relative;
+    display: inline-block;
+    height: 37px;
+    width: 37px;
+}
+
+
+
+ 
